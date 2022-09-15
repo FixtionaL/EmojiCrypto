@@ -1,2 +1,5 @@
-# EmojiCrypto
-A simple WebApp for having fun with encryption &amp; decryption and yes, Emojis !
+# EmojiCrypto 🥸
+
+A simple emoji-based encryption-decryption tool from cryptmoji.
+
+---
