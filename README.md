@@ -1,5 +1,5 @@
 # EmojiCrypto 🥸
 
-A simple emoji-based encryption-decryption tool from cryptmoji.
+A simple emoji-based encryption-decryption tool using cryptmoji.
 
 ---
