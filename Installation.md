@@ -23,4 +23,4 @@ print(decrypted)
 # Hello World!
 ```
 
-#### Created and Managed by [Siddhesh Aggarwal](https://github.com/Siddhesh-Agarwal/cryptmoji)
+#### Created and Managed by [Siddhesh Agarwal](https://github.com/Siddhesh-Agarwal/cryptmoji)
